@@ -1,0 +1,9 @@
+/home/c272/Repos/Rokkit/Rokkit/Rokkit/bin/Debug/netstandard2.0/Rokkit.deps.json
+/home/c272/Repos/Rokkit/Rokkit/Rokkit/bin/Debug/netstandard2.0/Rokkit.dll
+/home/c272/Repos/Rokkit/Rokkit/Rokkit/bin/Debug/netstandard2.0/Rokkit.pdb
+/home/c272/Repos/Rokkit/Rokkit/Rokkit/obj/Debug/netstandard2.0/Rokkit.csprojAssemblyReference.cache
+/home/c272/Repos/Rokkit/Rokkit/Rokkit/obj/Debug/netstandard2.0/Rokkit.csproj.CoreCompileInputs.cache
+/home/c272/Repos/Rokkit/Rokkit/Rokkit/obj/Debug/netstandard2.0/Rokkit.AssemblyInfoInputs.cache
+/home/c272/Repos/Rokkit/Rokkit/Rokkit/obj/Debug/netstandard2.0/Rokkit.AssemblyInfo.cs
+/home/c272/Repos/Rokkit/Rokkit/Rokkit/obj/Debug/netstandard2.0/Rokkit.dll
+/home/c272/Repos/Rokkit/Rokkit/Rokkit/obj/Debug/netstandard2.0/Rokkit.pdb

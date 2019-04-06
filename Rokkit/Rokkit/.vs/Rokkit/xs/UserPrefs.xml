@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Property.cs">
+    <Files>
+      <File FileName="Rokkit.cs" Line="32" Column="14" />
+      <File FileName="Serialize.cs" Line="76" Column="10" />
+      <File FileName="Database.cs" Line="9" Column="35" />
+      <File FileName="Table.cs" Line="21" Column="6" />
+      <File FileName="Record.cs" Line="3" Column="5" />
+      <File FileName="Property.cs" Line="6" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
